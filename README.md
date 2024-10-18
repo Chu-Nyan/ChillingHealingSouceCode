@@ -1,4 +1,4 @@
-# ChillingHealingSouceCode
+# ChillingHealingSourceCode
 
 안녕하세요. 지원자 노재우입니다.
 
